@@ -23,7 +23,7 @@ This guide is not intended to be used by SNAP clients.
 <p class="row">
   <img align="right" style="max-width: 40%; border: 1px solid; margin: 10px;" src="./images/dedicatedIncome.png">
   Collect income information in one dedicated section. If an application asks all income questions at the same time, the applicant can focus on: 
-  <ul>
+  <ul align="left">
     <li>Gathering any needed information or documents (like paystubs).</li>
     <li>Entering all income information during one session.</li>
   </ul>
