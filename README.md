@@ -18,9 +18,10 @@ This guide is not intended to be used by SNAP clients.
 * Identifying changes to make to your application/renewal form
 * Identifying areas of your application/renewal form to test with clients
 
-# Recommended Practices
+## Table of contents
 
-
+### Recommended Practices:
+  - [Have a dedicated “Income” section in your application](./recommendations/dedicatedIncome.md): Some advice on how to prompt clients for income
 
 
 
