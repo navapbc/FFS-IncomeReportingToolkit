@@ -18,9 +18,17 @@ This guide is not intended to be used by SNAP clients.
 * Identifying changes to make to your application/renewal form
 * Identifying areas of your application/renewal form to test with clients
 
-## Table of contents
+## Recommended Practices:
+### Have a dedicated “Income” section in your application
+<img align="right" style="max-width: 50%; border: 1px solid; margin: 10px;" src="../images/dedicatedIncome.png">
+Collect income information in one dedicated section. If an application asks all income questions at the same time, the applicant can focus on: 
+* Gathering any needed information or documents (like paystubs).
+* Entering all income information during one session.
 
-### Recommended Practices:
-  - [Have a dedicated “Income” section in your application](./recommendations/dedicatedIncome.md): Some advice on how to prompt clients for income
-  - [Design for your application to accept a variety of income scenarios](./recommendations/incomeVariety.md): Tips for new and emerging job types
-  
+This helps clients avoid context-switching and encourages them to complete the income section.\
+
+### Design for your application to accept a variety of income scenarios
+<img align="right" style="max-width: 50%; border: 1px solid;" src="../images/incomeVariety.png">
+More and more agencies are reporting that clients have “non-traditional” jobs, like gig work or multiple part-time jobs. To prevent burden later in the application or interview process, applications can: 
+* Allow clients adding income on a per-job basis, not a per-person basis. This supports scenarios where one member of the household has more than one job. \
+
