@@ -30,6 +30,7 @@ This guide is not intended to be used by SNAP clients.
   This helps clients avoid context-switching and encourages them to complete the income section.
 </div>
 
+<br/>
 ### Design for your application to accept a variety of income scenarios
 <div class="section">
   <img align="right" style="max-width: 40%; border: 1px solid;" src="./images/incomeVariety.png"/>
@@ -39,6 +40,7 @@ This guide is not intended to be used by SNAP clients.
   </ul>
 </div>
 
+<br/>
 ### Include only the system-required fields when possible
 <div class="section">
   <img align="right" style="max-width: 40%; border: 1px solid;" src="./images/minimalFields.png"/>
@@ -50,6 +52,7 @@ This guide is not intended to be used by SNAP clients.
   </ul>
 </div>
 
+<br/>
 ### Avoid using jargon in section titles or as field labels
 <div class="section">
   <img align="right" style="max-width: 40%; border: 1px solid;" src="./images/noJargon.png"/>
@@ -60,6 +63,7 @@ This guide is not intended to be used by SNAP clients.
   </ul>
 </div>
 
+<br/>
 ### Offer contextual explanations to help meet users where they are
 <div class="section">
   <img align="right" style="max-width: 40%; border: 1px solid;" src="./images/contextClues.png"/>
@@ -71,7 +75,9 @@ This guide is not intended to be used by SNAP clients.
     <li>When there’s math involved, provide information on what the calculation is. This can help applicants double-check their inputs are accurate.</li>
     <li>Providing examples for what a form should look like when completed can be helpful for clients.</li>
   </ul>
+</div>
 
+<br/>
 ### Use second and third person voice to directly address clients.
 <div class="section">
   <img align="right" style="max-width: 40%; border: 1px solid;" src="./images/useProperPerson.png"/>
