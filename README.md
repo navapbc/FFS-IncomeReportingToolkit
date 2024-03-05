@@ -22,16 +22,5 @@ This guide is not intended to be used by SNAP clients.
 
 ### Recommended Practices:
   - [Have a dedicated “Income” section in your application](./recommendations/dedicatedIncome.md): Some advice on how to prompt clients for income
-
-
-
-
-
-# Style Experimentation Zone
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+  - [Design for your application to accept a variety of income scenarios](./recommendations/incomeVariety.md): Tips for new and emerging job types
+  
