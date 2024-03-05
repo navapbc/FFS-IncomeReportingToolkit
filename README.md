@@ -17,3 +17,10 @@ This guide is not intended to be used by SNAP clients.
 ## How can I use the information in this guide? 
 * Identifying changes to make to your application/renewal form
 * Identifying areas of your application/renewal form to test with clients
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
