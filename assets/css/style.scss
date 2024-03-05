@@ -69,7 +69,7 @@
 
 .section {
   display: block;
-  overflow: auto;
+  overflow: auto !important;
 }
 
 @media only screen and (max-width: 768px) {
