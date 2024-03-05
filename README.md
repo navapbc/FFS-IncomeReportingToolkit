@@ -18,15 +18,10 @@ This guide is not intended to be used by SNAP clients.
 * Identifying changes to make to your application/renewal form
 * Identifying areas of your application/renewal form to test with clients
 
-# Recommended Practices
-## Have a dedicated “Income” section in your application
-<img align="right" style="max-width: 50%" src="https://github.com/navapbc/FFS-IncomeReportingToolkit/assets/776667/68f3aaf7-38c3-49c1-930a-28e019c16d12">
-Collect income information in one dedicated section. If an application asks all income questions at the same time, the applicant can focus on: 
-* Gathering any needed information or documents (like paystubs).
-* Entering all income information during one session.
+## Table of contents
 
-This helps clients avoid context-switching and encourages them to complete the income section. 
-
+### Recommended Practices:
+  - [Have a dedicated “Income” section in your application](./recommendations/dedicatedIncome.md): Some advice on how to prompt clients for income
 
 
 
