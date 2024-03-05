@@ -20,8 +20,8 @@ This guide is not intended to be used by SNAP clients.
 
 ## Recommended Practices:
 ### Have a dedicated “Income” section in your application
-<p align="right">
-  <img style="max-width: 40%; border: 1px solid; margin: 10px;" src="./images/dedicatedIncome.png">
+<p>
+  <img align="right" style="max-width: 40%; border: 1px solid; margin: 10px;" src="./images/dedicatedIncome.png">
 Collect income information in one dedicated section. If an application asks all income questions at the same time, the applicant can focus on: 
 <ul>
   <li>Gathering any needed information or documents (like paystubs).</li>
