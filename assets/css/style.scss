@@ -73,20 +73,4 @@
     max-width: 100%;
   }
 }
-
-// Experimenting with floating images to the left or right of content
-img[alt$=">"] {
-  float: right;
-}
-
-img[alt$="<"] {
-  float: left;
-}
-
-img[alt$="><"] {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: auto;
-  float: none!important;
 }
