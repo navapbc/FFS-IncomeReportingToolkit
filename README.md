@@ -22,12 +22,13 @@ This guide is not intended to be used by SNAP clients.
 ### Have a dedicated “Income” section in your application
 <p align="right">
   <img style="max-width: 40%; border: 1px solid; margin: 10px;" src="./images/dedicatedIncome.png">
-</p>
 Collect income information in one dedicated section. If an application asks all income questions at the same time, the applicant can focus on: 
-* Gathering any needed information or documents (like paystubs).
-* Entering all income information during one session.
-
+<ul>
+  <li>Gathering any needed information or documents (like paystubs).</li>
+  <li>Entering all income information during one session.</li>
+</ul>
 This helps clients avoid context-switching and encourages them to complete the income section.
+</p>
 
 ---
 ### Design for your application to accept a variety of income scenarios
