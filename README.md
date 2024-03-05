@@ -25,8 +25,7 @@ Collect income information in one dedicated section. If an application asks all 
 * Entering all income information during one session.
 
 This helps clients avoid context-switching and encourages them to complete the income section. 
-
-![image alt >](https://github.com/navapbc/FFS-IncomeReportingToolkit/assets/776667/68f3aaf7-38c3-49c1-930a-28e019c16d12)
+<img align="right" src="https://github.com/navapbc/FFS-IncomeReportingToolkit/assets/776667/68f3aaf7-38c3-49c1-930a-28e019c16d12">
 
 
 
