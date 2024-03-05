@@ -67,6 +67,11 @@
     padding: 20px;
 }
 
+.section {
+  display: block;
+  overflow: auto;
+}
+
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   .row .column{
