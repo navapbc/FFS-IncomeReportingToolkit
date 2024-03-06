@@ -85,4 +85,4 @@ This guide is not intended to be used by SNAP clients.
 </div>
 
 ## Provide Feedback
-We’re continuously improving and want to hear from you. Help us by emailing your feedback to Income-reporting-project@navapbc.com.
+We’re continuously improving and want to hear from you. Help us by emailing your feedback to <a href="mailto:Income-reporting-project@navapbc.com">Income-reporting-project@navapbc.com</a>.
