@@ -83,3 +83,6 @@ This guide is not intended to be used by SNAP clients.
   <img class="example" align="right" src="./images/useProperPerson.png"/>
   Using second-person voice (“you” and their name when possible) is friendly, and can help clients identify when they need to take an action, and can help clarify who the application is referring to.
 </div>
+
+## Provide Feedback
+We’re continuously improving and want to hear from you. Help us by emailing your feedback to Income-reporting-project@navapbc.com.
