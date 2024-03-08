@@ -1,14 +1,11 @@
-console.log("Entered main.js!");
-
 document.addEventListener('DOMContentLoaded', (event) => {
-  console.log("In event handler!");
   const secret = getUrlParameter('secret');
   if (secret != "hithere") {
-    console.log("got secret!");
     document.getElementById('primary').style.display = 'none';
   }
 });
 
+// https://stackoverflow.com/questions/19491336/how-to-get-url-parameter-using-jquery-or-plain-javascript
 var getUrlParameter = function getUrlParameter(sParam) {
   var sPageURL = window.location.search.substring(1),
       sURLVariables = sPageURL.split('&'),
