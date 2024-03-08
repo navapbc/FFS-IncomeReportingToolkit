@@ -3,9 +3,9 @@ console.log("Entered main.js!");
 document.addEventListener('DOMContentLoaded', (event) => {
   console.log("In event handler!");
   const secret = getUrlParameter('secret');
-  if (secret == "hithere") {
+  if (secret != "hithere") {
     console.log("got secret!");
-    document.title = `Secret: ${secret}`;
+    document.getElementById('primary').style.display = 'none';
   }
 });
 
