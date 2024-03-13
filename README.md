@@ -4,7 +4,7 @@
 **_This playbook is \*\*NOT\*\* a source of authoritative, legal, or regulatory guidance and has not been officially endorsed by the Center for Medicaid and CHIP Services (CMCS) or the Food and Nutrition Service (FNS). It is advisory only, and should be adapted appropriately for each state and scenario. Ultimately, it is the responsibility of state Medicaid and SNAP officials to ensure that implementation of any project is compliant with federal Medicaid and SNAP statute and regulations. Refer to the CMCS [website](https://www.medicaid.gov/medicaid/index.html) and FNS [website](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program) for up to date official guidance._**
 
 ## Introduction 
-This toolkit offers guidance and templates to improve the applicant experience of providing income in SNAP applications and renewals. In this toolkit, you’ll find: 
+This playbook offers guidance and templates to improve the applicant experience of providing income in SNAP applications and renewals. In this playbook, you’ll find: 
 * Recommended practices 
 * Common terms and plain language definitions 
 * Example language and visual templates for income reporting 
