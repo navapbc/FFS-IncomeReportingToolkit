@@ -24,7 +24,8 @@ This guide is not intended to be used by SNAP clients.
 ## Recommended Practices:
 ### Have a dedicated “Income” section in your application
 <div class="section">
-  <img class="example" align="right" src="./images/dedicatedIncome.png"/>
+  <img class="example" align="right" src="./images/dedicatedIncome.png"
+    alt="Identify who in the household has earned income, with examples." />
   Collect income information in one dedicated section. If an application asks all income questions at the same time, the applicant can focus on: 
   <ul>
     <li>Gathering any needed information or documents (like paystubs).</li>
@@ -36,7 +37,8 @@ This guide is not intended to be used by SNAP clients.
 <br/>
 ### Design for your application to accept a variety of income scenarios
 <div class="section">
-  <img class="example" align="right" src="./images/incomeVariety.png"/>
+  <img class="example" align="right" src="./images/incomeVariety.png"
+    alt="Include a variety of income scenarios per job." />
   More and more agencies are reporting that clients have “non-traditional” jobs, like gig work or multiple part-time jobs. To prevent burden later in the application or interview process, applications can: 
   <ul>
     <li>Allow clients adding income on a per-job basis, not a per-person basis. This supports scenarios where one member of the household has more than one job.</li>
@@ -46,7 +48,8 @@ This guide is not intended to be used by SNAP clients.
 <br/>
 ### Include only the system-required fields when possible
 <div class="section">
-  <img class="example" align="right" src="./images/minimalFields.png"/>
+  <img class="example" align="right" src="./images/minimalFields.png"
+    alt="Define system-required questions by agency policy and data requirements." />
   Less fields in a form means less work for applicants. An application should focus on the information that is needed from policy and systems perspectives.
   <ul>
     <li>When asking for sensitive information, be explicit about why it is needed or how it will be used.</li>
@@ -58,7 +61,8 @@ This guide is not intended to be used by SNAP clients.
 <br/>
 ### Avoid using jargon in section titles or as field labels
 <div class="section">
-  <img class="example" align="right" src="./images/noJargon.png"/>
+  <img class="example" align="right" src="./images/noJargon.png"
+    alt="Instead of asking for 'gross income,' ask for 'pay before taxes.'" />
   Income language may include jargon that applicants may not be familiar with. Avoid using this jargon in titles or field labels. Plain language titles or labels give clients confidence they understand the questions. This helps them enter accurate income information. 
   <ul>
     <li>“Gross” and “net” income read as jargon to many clients and can result in inaccurate income reporting. Instead of asking for “gross income,” ask for “pay before taxes.”</li>
@@ -69,7 +73,8 @@ This guide is not intended to be used by SNAP clients.
 <br/>
 ### Offer contextual explanations to help meet users where they are
 <div class="section">
-  <img class="example" align="right" src="./images/contextClues.png"/>
+  <img class="example" align="right" src="./images/contextClues.png"
+    alt="Hint text should be visually distinct from body content." />
   Sometimes using jargon or specific financial terms is unavoidable. 
 
   Forms can assume the client “knows” what certain terms mean, or what their input should be. Agencies often provide guidance on these terms, but sometimes that guidance is not included in the application. "Helper text" and other in-context descriptions help clients understand what is being asked. This comprehension can result in more accurate income reporting. 
@@ -83,7 +88,8 @@ This guide is not intended to be used by SNAP clients.
 <br/>
 ### Use second and third person voice to directly address clients.
 <div class="section">
-  <img class="example" align="right" src="./images/useProperPerson.png"/>
+  <img class="example" align="right" src="./images/useProperPerson.png"
+    alt="Personalize the experience by addressing the client directly." />
   Using second-person voice (“you” and their name when possible) is friendly, and can help clients identify when they need to take an action, and can help clarify who the application is referring to.
 </div>
 
