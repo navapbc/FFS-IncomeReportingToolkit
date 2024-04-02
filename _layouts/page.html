@@ -7,7 +7,7 @@ layout: default
 
 <div class="breadcrumbs">
   {% for piece in pieces %}
-    {% assign url = url | append: "/" | append: piece | replace: "//", "/"" %}
+    {% assign url = url | append: "/" | append: piece | replace: "//", "/" %}
     {% assign ext = url | split: "." | last %}
 
     {% if ext != "html" %}
