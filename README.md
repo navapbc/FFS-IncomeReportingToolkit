@@ -1,32 +1,40 @@
 # Improving SNAP Income Reporting
 
 ## Background
+
 **_This playbook is \*\*NOT\*\* a source of authoritative, legal, or regulatory guidance and has not been officially endorsed by the Center for Medicaid and CHIP Services (CMCS) or the Food and Nutrition Service (FNS). It is advisory only, and should be adapted appropriately for each state and scenario. Ultimately, it is the responsibility of state Medicaid and SNAP officials to ensure that implementation of any project is compliant with federal Medicaid and SNAP statute and regulations. Refer to the CMCS [website](https://www.medicaid.gov/medicaid/index.html) and FNS [website](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program) for up to date official guidance._**
 
-## Introduction 
-This playbook offers guidance and templates to improve the applicant experience of providing income in SNAP applications and renewals. In this playbook, you’ll find: 
-* Recommended practices 
-* Common terms and plain language definitions 
-* Example language and visual templates for income reporting 
+## Introduction
 
-## Who is this guide for? 
-This guide is for: 
-* SNAP program administrators and their staff 
-* Other state, county, and local officials who support the SNAP eligibility and enrollment process 
-* Vendors and contractors working with agencies to deliver SNAP benefits to applicants and/or clients 
+This playbook offers guidance and templates to improve the applicant experience of providing income in SNAP applications and renewals. In this playbook, you’ll find:
 
-This guide is not intended to be used by SNAP clients. 
+* Recommended practices
+* Common terms and plain language definitions
+* Example language and visual templates for income reporting
 
-## How can I use the information in this guide? 
+## Who is this guide for?
+
+This guide is for:
+
+* SNAP program administrators and their staff
+* Other state, county, and local officials who support the SNAP eligibility and enrollment process
+* Vendors and contractors working with agencies to deliver SNAP benefits to applicants and/or clients
+
+This guide is not intended to be used by SNAP clients.
+
+## How can I use the information in this guide?
+
 * Identifying changes to make to your application/renewal form
 * Identifying areas of your application/renewal form to test with clients
 
-## Recommended Practices:
+## Recommended Practices
+
 ### Have a dedicated “Income” section in your application
+
 <div class="section">
   <img class="example" align="right" src="./images/dedicatedIncome.png"
     alt="Identify who in the household has earned income, with examples." />
-  Collect income information in one dedicated section. If an application asks all income questions at the same time, the applicant can focus on: 
+  Collect income information in one dedicated section. If an application asks all income questions at the same time, the applicant can focus on:
   <ul>
     <li>Gathering any needed information or documents (like paystubs).</li>
     <li>Entering all income information during one session.</li>
@@ -39,7 +47,7 @@ This guide is not intended to be used by SNAP clients.
 <div class="section">
   <img class="example" align="right" src="./images/incomeVariety.png"
     alt="Include a variety of income scenarios per job." />
-  More and more agencies are reporting that clients have “non-traditional” jobs, like gig work or multiple part-time jobs. To prevent burden later in the application or interview process, applications can: 
+  More and more agencies are reporting that clients have “non-traditional” jobs, like gig work or multiple part-time jobs. To prevent burden later in the application or interview process, applications can:
   <ul>
     <li>Allow clients adding income on a per-job basis, not a per-person basis. This supports scenarios where one member of the household has more than one job.</li>
   </ul>
@@ -63,7 +71,7 @@ This guide is not intended to be used by SNAP clients.
 <div class="section">
   <img class="example" align="right" src="./images/noJargon.png"
     alt="Instead of asking for 'gross income,' ask for 'pay before taxes.'" />
-  Income language may include jargon that applicants may not be familiar with. Avoid using this jargon in titles or field labels. Plain language titles or labels give clients confidence they understand the questions. This helps them enter accurate income information. 
+  Income language may include jargon that applicants may not be familiar with. Avoid using this jargon in titles or field labels. Plain language titles or labels give clients confidence they understand the questions. This helps them enter accurate income information.
   <ul>
     <li>“Gross” and “net” income read as jargon to many clients and can result in inaccurate income reporting. Instead of asking for “gross income,” ask for “pay before taxes.”</li>
     <li>Clarify the term “self-employed” with examples and different terminology. Agencies report that clients don’t always accurately identify as “self-employed.”</li>
@@ -75,9 +83,9 @@ This guide is not intended to be used by SNAP clients.
 <div class="section">
   <img class="example" align="right" src="./images/contextClues.png"
     alt="Hint text should be visually distinct from body content." />
-  Sometimes using jargon or specific financial terms is unavoidable. 
+  Sometimes using jargon or specific financial terms is unavoidable.
 
-  Forms can assume the client “knows” what certain terms mean, or what their input should be. Agencies often provide guidance on these terms, but sometimes that guidance is not included in the application. "Helper text" and other in-context descriptions help clients understand what is being asked. This comprehension can result in more accurate income reporting. 
+  Forms can assume the client “knows” what certain terms mean, or what their input should be. Agencies often provide guidance on these terms, but sometimes that guidance is not included in the application. "Helper text" and other in-context descriptions help clients understand what is being asked. This comprehension can result in more accurate income reporting.
   <ul>
     <li>Imagine if you were explaining the form fields in real life to an applicant. There might be a back-and-forth conversation to interpret the form. Helper text can act like the contextual conversation that would support an applicant.</li>
     <li>When there’s math involved, provide information on what the calculation is. This can help applicants double-check their inputs are accurate.</li>
@@ -86,7 +94,7 @@ This guide is not intended to be used by SNAP clients.
 </div>
 
 <br/>
-### Use second and third person voice to directly address clients.
+### Use second and third person voice to directly address clients
 <div class="section">
   <img class="example" align="right" src="./images/useProperPerson.png"
     alt="Personalize the experience by addressing the client directly." />
@@ -94,4 +102,5 @@ This guide is not intended to be used by SNAP clients.
 </div>
 
 ## Provide Feedback
+
 We’re continuously improving and want to hear from you. Help us by emailing your feedback to <a href="mailto:Income-reporting-project@navapbc.com">Income-reporting-project@navapbc.com</a>.
