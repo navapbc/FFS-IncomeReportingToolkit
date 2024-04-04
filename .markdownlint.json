@@ -1,13 +1,14 @@
 {
    "MD033": {
-     "allowed_elements": [
-       "br",
-       "img"
-     ]
-     
+      "allowed_elements": [
+         "a href",
+         "br",
+         "div",
+         "img"
+      ]
    },
    "MD013": {
       "line_length": 500,
       "code_block_line_length": 500
-    } 
- }
+   }
+}
