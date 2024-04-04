@@ -51,6 +51,13 @@
     padding: 10px 20px;
 }
 
+img {
+  max-width: 30%;
+  border: 1px solid; 
+  margin-left: 10px;
+  border-color: #5d5d5d;
+}
+
 .row{
   display: inline-block;
   width: 100%;
@@ -90,3 +97,8 @@ a {
 #work-in-progress-message {
   display: none;
 }
+
+.anchorjs-link {
+  display: none !Important;
+}
+
