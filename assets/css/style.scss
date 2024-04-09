@@ -69,6 +69,7 @@
     display: inline-block;
 	// Linter expects floats to be ignored with inline-blocks but below renders correctly.
     float: left;
+    padding: 0px;
 }
 
 img {
