@@ -16,7 +16,7 @@
 }
 
 .markdown-body p, .markdown-body blockquote, .markdown-body ul, .markdown-body ol, .markdown-body dl, .markdown-body table, .markdown-body pre{
-  color: #141414;
+  color: black;
   font-family: 'Source Sans 3', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
   font-size: 16.96px;
   line-height: 25.44px;
@@ -47,7 +47,7 @@
 
 .markdown-body table th {
     background: #103c68;
-    color: #FFF;
+    color: white;
 }
 
 .markdown-body table th, .markdown-body table td {
@@ -75,6 +75,7 @@ img {
 
 a {
   text-decoration: underline;
+  color: #0351AA;
 }
 
 .tooltip {
@@ -85,10 +86,10 @@ a {
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 120px;
+  width: 200px;
   background-color: black;
-  color: #fff;
-  text-align: center;
+  color: white;
+  text-align: left;
   border-radius: 6px;
   padding: 5px 0;
 

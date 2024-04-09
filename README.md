@@ -1,4 +1,4 @@
-# Improving SNAP Income Reporting
+# Improving Income Reporting
 
 ## Background
 
@@ -23,7 +23,7 @@
 Eligible people, who have the most need for healthcare, cash assistance, and food assistance are struggling to receive or renew benefits. This struggle is in part due to the burden of income verification. The burden of proof falls on them, not the government service.
 
 <div>
-The Income Reporting Playbook offers guidance and templates to improve the <div class="tooltip">client<span class="tooltiptext">“Client” refers to people applying for or renewing a SNAP benefit.</span></div> experience of providing income in SNAP applications and renewals. 
+The Income Reporting Playbook offers guidance and templates to improve the <div class="tooltip">client<span class="tooltiptext">“Client” refers to people applying for or renewing a benefit.</span></div> experience of providing income during benefit applications and renewals.
 </div><br/>
 In this playbook, you’ll find:
 
