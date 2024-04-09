@@ -12,6 +12,7 @@
 * [What is plain language?](#what-is-plain-language)
 * [Impact of plain language implementations](#impact-of-plain-language-implementations)
 * [Recommended best practices](#recommended-practices)
+* [Lexicon: Common terms and definitions](#lexicon-common-terms-and-definitions)
 * [Self-attestations and “no income” situations](#self-attestations-and-no-income-situations)
 * [Additional improvement areas](#additional-improvement-areas)
 * [Considerations for cross-program contexts](#considerations-for-cross-program-contexts)
@@ -248,13 +249,7 @@ Note that cost of living expenses such as rent are not covered as part of this g
 
 ## Lexicon: Common terms and definitions
 
-<table style="undefined;table-layout: fixed; width: 100% border-collapse: collapse;">
-<colgroup>
-<col style="width: 20%">
-<col style="width: auto">
-<col style="width: auto">
-<col style="width: 20%">
-</colgroup>
+<table style="undefined;table-layout: fixed; width: 100%; border-collapse: collapse;">
 <thead>
   <tr>
     <th>Term</th>
@@ -307,7 +302,8 @@ Note that cost of living expenses such as rent are not covered as part of this g
 
 ## Self-attestations and “no income” situations
 
-In some cases, it makes sense to ask clients to self-attest to their income, or lack of income. In 2019, Code for America tested a version of [GetCalFresh.org](http://getcalfresh.org/), a digital SNAP application for counties in California, that included an updated, plain language income self-attestation flow: [Overcoming Barriers: Helping Self-Employed Applicants Access Their Full CalFresh Benefit](https://codeforamerica.org/news/helping-self-employed-applicants-access-their-full-calfresh-benefit/). This is a good example of digitizing this process that community-based organizations and caseworkers currently have as part of their administrative burden.
+In some cases, it makes sense to ask clients to self-attest to their income, or lack of income. In 2019, Code for America tested a version of [GetCalFresh.org](http://getcalfresh.org/), a digital SNAP application for counties in California, that included an updated, plain language income self-attestation flow: [Overcoming Barriers: Helping Self-Employed Applicants Access Their Full CalFresh Benefit](https://codeforamerica.org/news/helping-self-employed-applicants-access-their-full-calfresh-benefit/).
+This is a good example of digitizing this process that community-based organizations and caseworkers currently have as part of their administrative burden.
 
 ## Additional improvement areas
 

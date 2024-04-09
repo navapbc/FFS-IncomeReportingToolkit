@@ -1,6 +1,7 @@
 ---
 ---
 
+// Lint expects css-lcurlyexpected but below renders correctly.
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Source+Sans+3:wght@300;400;700&display=swap');
 // DO NOT DELETE THE ABOVE LINES
@@ -45,6 +46,10 @@
   color: #0a64bd;
 }
 
+.markdown-body table {
+	display: block;
+}
+
 .markdown-body table th {
     background: #103c68;
     color: white;
@@ -62,14 +67,13 @@
 .column{
     max-width: 50%;
     display: inline-block;
+	// Linter expects floats to be ignored with inline-blocks but below renders correctly.
     float: left;
-    // padding: 20px;
 }
 
 img {
   max-width: 40%;
   border: 1px solid; 
-  margin-left: 10px;
   border-color: #5d5d5d;
 }
 
@@ -110,11 +114,42 @@ a {
   }
   img {
     max-width: 100%;
-    margin-left: 0px;
   }
   figure {
     margin: 10px 0px;
   }
+	table {
+		width: 100%;
+	}
+	tr {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-ms-flex-direction: row;
+		flex-direction: row;
+	}
+	td,
+	th {
+		display: block;
+		/*flex-grow | flex-shrink | flex-basis   */
+		-ms-flex: 1 1 auto;
+		flex: 1 1 auto;
+	}
+
+	tr {
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		border-bottom: 3px solid #ccc;
+		display: block;
+	}
+	td {
+		float: left\9;
+		width: 100%;
+	}
 }
 
 #work-in-progress-message {
