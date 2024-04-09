@@ -22,7 +22,10 @@
 
 Eligible people, who have the most need for healthcare, cash assistance, and food assistance are struggling to receive or renew benefits. This struggle is in part due to the burden of income verification. The burden of proof falls on them, not the government service.
 
-The Income Reporting Playbook offers guidance and templates to improve the [client](## "“Client” refers to people applying for or renewing a SNAP benefit.") experience of providing income in SNAP applications and renewals. In this playbook, you’ll find:
+<div>
+The Income Reporting Playbook offers guidance and templates to improve the <div class="tooltip">client<span class="tooltiptext">“Client” refers to people applying for or renewing a SNAP benefit.</span></div> experience of providing income in SNAP applications and renewals. 
+</div><br/>
+In this playbook, you’ll find:
 
 * Recommended best practices
 * Common terms and plain language definitions
@@ -51,7 +54,7 @@ This guide is primarily intended to help improve online application/renewal form
 
 **Plain language** (also called plain writing or plain English) is communication your audience can understand the first time they read or hear it.
 
-The Plain Writing Act of 2010 defines plain language as "writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience."
+The <a href="https://www.govinfo.gov/app/details/PLAW-111publ274">Plain Writing Act of 2010</a> defines plain language as "writing that is clear, concise, well-organized, and follows other best practices appropriate to the subject or field and intended audience."
 
 Plain language helps your audience:
 
@@ -82,116 +85,170 @@ Implementing plain language will reduce errors by increasing client comprehensio
 * "Next, we zoomed in on the top 20 terms by frequency and examined how different states and territories defined these terms. While we identified some common themes, there were variations in how the terms were defined and applied in context by the states... Too much information can overwhelm the claimant, who may feel lost in all the technicality. On the other hand, too little information does not sufficiently clarify what the term means. Striking an optimal balance with the clear and easy to understand explanation can be challenging...
 Based on what we learned from analyzing the existing definitions of the top 20 terms, we concluded that improved plain language definitions are urgently needed for the UI lexicon in order to help claimants understand and navigate the system. " - [DOL's UX Lexicon research findings](https://www.dol.gov/agencies/eta/ui-modernization/use-plain-language/ui-lexicon#:~:text=Creating%20common%2Dsense%20plain%20language%20definitions%20for%20the%20UI%20lexicon%C2%A0)
 
-"Due to the complexity of program rules and eligibility requirements, claimants often have difficulty understanding application questions, which can cause them to inadvertently provide incorrect answers and contributes to improper payments and spikes in call center call volume." - [DOL CX principles for online applications](https://www.dol.gov/agencies/eta/ui-modernization/customer-experience/improve-applications/cx-principles#:~:text=and%20occupation%20sections-,Use%20plain%20language,-Plain%20language%20is)
+* "Due to the complexity of program rules and eligibility requirements, claimants often have difficulty understanding application questions, which can cause them to inadvertently provide incorrect answers and contributes to improper payments and spikes in call center call volume." - [DOL CX principles for online applications](https://www.dol.gov/agencies/eta/ui-modernization/customer-experience/improve-applications/cx-principles#:~:text=and%20occupation%20sections-,Use%20plain%20language,-Plain%20language%20is)
 
 ## Recommended Practices
 
-<div class="section">
-
 ### Have a dedicated “Income” section in your application
 
-<img align="right" width="40%" hspace="10" src="./images/applicationProgressBar.png" alt="Application progress bar and content indicating all income questions are in the current section of the application."/>
-
+<div class="row">
+  <div class="column">
 Our research shows that clients do not separate the money their household receives as different types of income. Some agencies, however, have different sections for earned and unearned income in their online applications. Instead, collect income information from all members of the household in one dedicated section. If an application asks all income questions at the same time, the client can focus on:
 
-*Gathering any needed information or documents, like paystubs, to represent everyone in the household's income situation.
-*Entering all income information during one session, including income that is not paid by an employer.
+<ul>
+<li>Gathering any needed information or documents, like paystubs, to represent everyone in the household's income situation.</li>
+<li>Entering all income information during one session, including income that is not paid by an employer.</li>
+</ul>
 
-[Research done on cognitive load](https://www.nngroup.com/articles/minimize-cognitive-load/) (the mental resources needed for a user to operate a system and complete tasks) shows that usability best practices, such as chunking alike content, helps reduce extraneous cognitive load. Reducing extraneous cognitive load means clients can complete applications faster and with higher accuracy. A simple approach like consolidating income questions into the same section can help clients avoid context-switching and encourages them to complete the income section.
+<a href="[url](https://www.nngroup.com/articles/minimize-cognitive-load/)">Research done on cognitive load</a> (the mental resources needed for a user to operate a system and complete tasks) shows that usability best practices, such as chunking alike content, helps reduce extraneous cognitive load. Reducing extraneous cognitive load means clients can complete applications faster and with higher accuracy. A simple approach like consolidating income questions into the same section can help clients avoid context-switching and encourages them to complete the income section.
+
+ </div>
+   <div class="column">
+    <figure>
+    <img src="./images/applicationProgressBar.png" alt="Application progress bar and content indicating all income questions are in the current section of the application."/>
+    <figcaption>Application progress bar and content indicating all income questions are in the current section of the application.</figcaption>
+</figure>
+  </div>
 </div>
-<div class="section">
 
 ### Design for your application to accept a variety of income scenarios
 
-<img align="right" width="40%" hspace="10" src="./images/incomeVariety.png" alt="Ensure clients enter jobs on a per-person, per-job basis for all household members."/>
+<div class="row">
+  <div class="column">
 
 More and more State administrators are reporting that clients have “non-traditional” jobs, like gig work or multiple part-time jobs. To prevent burden later in the application or interview process, ensure clients can add income on a per-person, then per-job basis. This supports cases where a member of the household has more than one job.
 
-<br clear="right"/>
+ </div>
+   <div class="column">
+    <figure>
+    <img src="./images/incomeVariety.png" alt="Ensure clients enter jobs on a per-person, per-job basis for all household members."/>
+    <figcaption>Ensure clients enter jobs on a per-person, per-job basis for all household members.</figcaption>
+    </figure>
+  </div>
 </div>
-<div class="section">
+
+<br clear="right"/>
 
 ### Include only what the agency needs to determine eligibility and calculate benefits
 
-<img align="right" width="40%" hspace="10" style="background-color:white;" src="./images/conditionalLogic.png" alt="User flow diagram of conditional content logic to only show employer questions for clients who have identified as employees."/>
+<div class="row">
+  <div class="column">
 
 Less fields in a form means less work for clients. An application should focus on the information that is needed from policy and systems perspectives.
+<ul>
+<li> When asking for sensitive information such as social security numbers or citizenship status, be explicit about why it is needed or how it will be used.</li>
+<li> If clients understand that it will make the process faster or easier, they are incentivized to provide that information.</li>
+<li> For emergency benefits programs, provide in-context helper text especially if emergency benefits are evaluated outside of this application.</li>
+<li> Make sure your digital form logic only show the questions the client truly needs based on their previous entries.</li>
+<li>Teams can make a  <a href="https://www.uxmatters.com/mt/archives/2010/06/the-question-protocol-how-to-make-sure-every-form-field-is-necessary.php">Question Protocol</a> to document questions in an application, with the goal of surfacing why they are asking each question. As an exercise, this method helps teams ensure they’re only asking information that serves a purpose. A question protocol diagram example can be seen in <a href="https://www.navapbc.com/insights/structuring-complex-eligibility-form-healthcareurl">Structuring a complex eligibility form for HealthCare.gov Nava PBC</a>.</li>
+<li> A "content-first" design approach can also help ensure only truly necessary information is asked. More guidance on how to use this approach can be found in the Nava PBC toolkit <a href="https://www.navapbc.com/toolkits/apply-content-first-design-public-services">How to apply a content-first design approach to public services (Nava PBC)</a>.</li>
+</ul>
 
-* When asking for sensitive information such as social security numbers or citizenship status, be explicit about why it is needed or how it will be used.
-
-* If clients understand that it will make the process faster or easier, they are incentivized to provide that information.
-
-* For emergency benefits programs, provide in-context helper text especially if emergency benefits are evaluated outside of this application.
-
-* Make sure your digital form logic only show the questions the client truly needs based on their previous entries.
-
-* Teams can make a [Question Protocol](https://www.uxmatters.com/mt/archives/2010/06/the-question-protocol-how-to-make-sure-every-form-field-is-necessary.php) to document questions in an application, with the goal of surfacing why they are asking each question. As an exercise, this method helps teams ensure they’re only asking information that serves a purpose. A question protocol diagram example can be seen in [Structuring a complex eligibility form for HealthCare.gov (Nava PBC)](https://www.navapbc.com/insights/structuring-complex-eligibility-form-healthcare).
-
-* A "content-first" design approach can also help ensure only truly necessary information is asked. More guidance on how to use this approach can be found in the Nava PBC toolkit [How to apply a content-first design approach to public services (Nava PBC)](https://www.navapbc.com/toolkits/apply-content-first-design-public-services).
+</div>
+   <div class="column">
+    <figure>
+    <img style="background-color:white;" src="./images/conditionalLogic.png" alt="User flow diagram of conditional content logic to only show employer questions for clients who have identified as employees."/>
+    <figcaption>User flow diagram of conditional content logic to only show employer questions for clients who have identified as employees.</figcaption>
+    </figure>
+  </div>
+</div>
 
 <br/>
-</div>
-<div class="section">
 
 ### Avoid using jargon in section titles or as field labels
 
-<img align="right" width="40%" hspace="10" src="./images/noJargon.png" alt="To reduce financial jargon, ask for “pay before taxes” instead of asking for “gross income."/>
+<div class="row">
+  <div class="column">
 
 Income language may include jargon that clients may not be familiar with. Avoid using this jargon in titles or field labels. Plain language titles or labels give clients confidence they understand the questions. This helps them enter accurate income information.
 
-* Ongoing research has revealed that “gross” and “net” income read as jargon to many clients and can result in inaccurate income reporting. Instead of asking for “gross income,” ask for “pay before taxes.” In content testing with clients, this terminology helped clients understand the kind of information needed.
+<ul>
+<li>Ongoing research has revealed that “gross” and “net” income read as jargon to many clients and can result in inaccurate income reporting. Instead of asking for “gross income,” ask for “pay before taxes.” In content testing with clients, this terminology helped clients understand the kind of information needed.</li>
 
-* Clarify the term “self-employed” with examples and different terminology. Agencies report that clients don’t always accurately identify as “self-employed.” Research with clients has also showed that clients who work odd jobs or freelance might not view themselves as "self-employed".
+<li>Clarify the term “self-employed” with examples and different terminology. Agencies report that clients don’t always accurately identify as “self-employed.” Research with clients has also showed that clients who work odd jobs or freelance might not view themselves as "self-employed".</li>
+</ul>
 
 Sometimes using jargon or specific financial terms is unavoidable. In these situations, it's important to provide examples or visuals to help convey what information is needed.
 
-Providing examples for what a form or pay statement should look like when completed can be helpful for clients. [How to read a pay stub](https://files.consumerfinance.gov/f/documents/cfpb_building_block_activities_how-to-read-pay-stub_handout.pdf) from consumerfinance.gov provides an example of this type of guidance.
+Providing examples for what a form or pay statement should look like when completed can be helpful for clients. <a href="https://files.consumerfinance.gov/f/documents/cfpb_building_block_activities_how-to-read-pay-stub_handout.pdf">How to read a pay stub</a> from consumerfinance.gov provides an example of this type of guidance.
+
+</div>
+   <div class="column">
+    <figure>
+    <img src="./images/noJargon.png" alt="To reduce financial jargon, ask for “pay before taxes” instead of asking for “gross income."/>
+    <figcaption>To reduce financial jargon, ask for “pay before taxes” instead of asking for “gross income.</figcaption>
+    </figure>
+  </div>
+</div>
 
 <br/>
-</div>
-<div class="section">
 
 ### Offer contextual explanations to help meet users where they are
 
-<img align="right" width="40%" hspace="10" src="./images/contextClues.png" alt="The Massachusetts Paid Family and Medical Leave application provides in-context help on how to calculate average working week hours by linking to a dedicated guide."/>
-
+<div class="row">
+  <div class="column">
 
 Written content should not assume the client “knows” the agency's definition of certain terms, or that they know the format required to input information. Agencies often provide guidance on these terms, but sometimes that guidance is not included in the application.
 
-* "Helper text" and other contextual descriptions help clients understand what is being asked. This comprehension can result in more accurate income reporting. Imagine if you were explaining the form fields in real life to a client. Helper text can act like the contextual conversation that would support a client's understanding of the questions.
-* When there’s math involved, like calculating an average, provide an in-app calculator or information on what the calculation is based on according to the agency's definition. This can help clients double-check their inputs are accurate.
-* In-application calendars are also helpful for clients to visualize timelines and their reported dates.
+<ul>
+<li> "Helper text" and other contextual descriptions help clients understand what is being asked. This comprehension can result in more accurate income reporting. Imagine if you were explaining the form fields in real life to a client. Helper text can act like the contextual conversation that would support a client's understanding of the questions.</li>
+<li> When there’s math involved, like calculating an average, provide an in-app calculator or information on what the calculation is based on according to the agency's definition. This can help clients double-check their inputs are accurate.</li>
+<li> In-application calendars are also helpful for clients to visualize timelines and their reported dates.</li>
+</ul>
 
-Whenever possible, include helper text within the application so clients don't need to navigate to a different resource. Plainlanguage.gov refers to this recommendation as [minimizing cross-references](https://www.plainlanguage.gov/guidelines/design/minimize-cross-references/).
+Whenever possible, include helper text within the application so clients don't need to navigate to a different resource. Plainlanguage.gov refers to this recommendation as <a href="https://www.plainlanguage.gov/guidelines/design/minimize-cross-references/">minimizing cross-references</a>.
+
+</div>
+   <div class="column">
+    <figure>
+    <img src="./images/contextClues.png" alt="The Massachusetts Paid Family and Medical Leave application provides in-context help on how to calculate average working week hours by linking to a dedicated guide."/>
+    <figcaption>The Massachusetts Paid Family and Medical Leave application provides in-context help on how to calculate average working week hours by linking to a <a href="https://www.mass.gov/info-details/how-to-calculate-your-average-working-week-hours">dedicated guide.</a></figcaption>
+    </figure>
+  </div>
+</div>
 
 <br/>
-</div>
-<div class="section">
 
 ### Use second and third person voice to directly address clients
 
-<img align="right" width="40%" hspace="10" src="./images/useProperPerson.png" alt="Personalize the experience by addressing the client directly by name, if possible."/>
+<div class="row">
+  <div class="column">
 
 Using second-person voice (“you” and their name when possible) is friendly, can help clients identify when they need to take an action, and can help clarify who the application is referring to in multi-person households.
 
-<br clear="right"/>
 </div>
-<div class="section">
+   <div class="column">
+    <figure>
+    <img src="./images/useProperPerson.png" alt="Personalize the experience by addressing the client directly by name, if possible."/>
+    <figcaption>Personalize the experience by addressing the client directly by name, if possible.</figcaption>
+    </figure>
+  </div>
+</div>
+
+<br clear="right"/>
 
 ### Provide beneficial income threshold content upfront
 
-<img align="right" width="40%" hspace="10" src="./images/beneficialContent.png" alt="Provide beneficial content in context so clients can make informed decisions. Also note that hint text is visually distinct from body content so it stands out to clients."/>
-
+<div class="row">
+  <div class="column">
 In our research, we heard examples of how itemizing self-employment expenses can reveal clients are within the income threshold. Therefore, for states that offer simplified business-related deductions, it is helpful to give this context to clients.
 
 Note that cost of living expenses such as rent are not covered as part of this guide.
 
-<br clear="right"/>
 </div>
+   <div class="column">
+    <figure>
+    <img src="./images/beneficialContent.png" alt="Provide beneficial content in context so clients can make informed decisions. Also note that hint text is visually distinct from body content so it stands out to clients."/>
+    <figcaption>Provide beneficial content in context so clients can make informed decisions. Also note that hint text is visually distinct from body content so it stands out to clients.</figcaption>
+    </figure>
+  </div>
+</div>
+
+<br clear="right"/>
 
 ## Lexicon: Common terms and definitions
 
-<table style="undefined;table-layout: fixed; width: 100% border-collapse: collapse; border-bottom: solid;">
+<table style="undefined;table-layout: fixed; width: 100% border-collapse: collapse;">
 <colgroup>
 <col style="width: 20%">
 <col style="width: auto">
@@ -217,13 +274,13 @@ Note that cost of living expenses such as rent are not covered as part of this g
     <td>Gross income</td>
     <td>Total pay before taxes and other deductions are taken out.</td>
     <td>"Where can I find this amount?" <br><br>Other helpful context: <br><br>"This number should be on your paystub. This will be the larger amount listed, before any deductions or taxes are taken out."</td>
-    <td><a href="https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/glossary/" target="_blank" rel="noopener noreferrer">Consumer Financial Protection Bureau</a><br>, Department of Labor</td>
+    <td><a href="https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/glossary/#g:~:text=often%20need%2Dbased.-,Gross%20income,-Total%20pay%20before" target="_blank" rel="noopener noreferrer">Consumer Financial Protection Bureau</a><br>, Department of Labor</td>
   </tr>
   <tr>
     <td>Net income</td>
     <td>Amount of money you receive in your paycheck after taxes and other deductions are taken out; also called take-home pay.</td>
     <td>"Where can I find this amount?"<br><br>Other helpful context: <ul><li>"This is the the amount of money you receive as pay after any deductions or taxes are taken out."</li><li>"This is the smaller number."</li></ul></td>
-    <td><a href="https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/glossary/" target="_blank" rel="noopener noreferrer">Consumer Financial Protection Bureau</a><br>, Department of Labor</td>
+    <td><a href="https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/glossary/#n:~:text=savings%20and%20insurance).-,Net%20income,-Amount%20of%20money" target="_blank" rel="noopener noreferrer">Consumer Financial Protection Bureau</a><br>, Department of Labor</td>
   </tr>
   <tr>
     <td>Unearned income</td>
@@ -271,7 +328,7 @@ This guide's focus on plain language, recommended practices, and design patterns
 
 This work was developed by the Facing Financial Shock Life Experiences Team. Future projects related to plain language or design patterns may include more income-related guidance.
 
-## Provide Feedback
+## Provide feedback
 
 We’re continuously improving and want to hear from you. Help us by emailing your feedback to
 [Income-reporting-project@navapbc.com.](mailto:Income-reporting-project@navapbc.com?subject=[FFS]%20Income%20Reporting%20Project)

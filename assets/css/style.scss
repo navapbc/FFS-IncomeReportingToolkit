@@ -1,3 +1,6 @@
+---
+---
+
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Source+Sans+3:wght@300;400;700&display=swap');
 // DO NOT DELETE THE ABOVE LINES
@@ -51,33 +54,20 @@
     padding: 10px 20px;
 }
 
-img {
-  max-width: 30%;
-  border: 1px solid; 
-  margin-left: 10px;
-  border-color: #5d5d5d;
-}
-
 .row{
   display: inline-block;
   width: 100%;
-  margin: 0 -20px;
 }
 
-.row .column{
-    max-width: 45%;
+.column{
+    max-width: 50%;
     display: inline-block;
     float: left;
-    padding: 20px;
+    // padding: 20px;
 }
 
-.section {
-  display: block;
-  overflow: auto !important;
-}
-
-img.example {
-  max-width: 30%;
+img {
+  max-width: 40%;
   border: 1px solid; 
   margin-left: 10px;
   border-color: #5d5d5d;
@@ -87,18 +77,45 @@ a {
   text-decoration: underline;
 }
 
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   .row .column{
     max-width: 100%;
+    float: none;
+  }
+  img {
+    max-width: 100%;
+    margin-left: 0px;
+  }
+  figure {
+    margin: 10px 0px;
   }
 }
 
 #work-in-progress-message {
   display: none;
 }
-
-.anchorjs-link {
-  display: none !Important;
-}
-
