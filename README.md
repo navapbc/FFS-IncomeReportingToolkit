@@ -73,7 +73,7 @@ Implementing plain language will reduce errors by increasing client comprehensio
 
 **External research references:**
 
-* "Many studies have shown that plain language affects your bottom line—you can save time, personnel resources, and money. And you will give better service to your readers." - <https://www.plainlanguage.gov/about/benefits/>
+* "Many studies have shown that plain language affects your bottom line—you can save time, personnel resources, and money. And you will give better service to your readers." - [Why use plain language from plainlanguage.gov](https://www.plainlanguage.gov/about/benefits/)
 
 * "Plain language has helped Insurance (in the Veterans Benefits Administration) by taking the focus off of ourselves and putting it where it belongs, on the customer. The focus on PL let everyone know that is OK to be clear, that we don’t have to hide our message behind big words and bureaucratic language." - [plainlanguage.gov: Quotes, Federal Employees Speak](https://www.plainlanguage.gov/resources/quotes/federal-employees-speak/)
 
@@ -86,6 +86,8 @@ Based on what we learned from analyzing the existing definitions of the top 20 t
 
 ## Recommended Practices
 
+<div class="section">
+
 ### Have a dedicated “Income” section in your application
 
 <img align="right" width="40%" hspace="10" src="./images/applicationProgressBar.png" alt="Application progress bar and content indicating all income questions are in the current section of the application."/>
@@ -96,6 +98,8 @@ Our research shows that clients do not separate the money their household receiv
 *Entering all income information during one session, including income that is not paid by an employer.
 
 [Research done on cognitive load](https://www.nngroup.com/articles/minimize-cognitive-load/) (the mental resources needed for a user to operate a system and complete tasks) shows that usability best practices, such as chunking alike content, helps reduce extraneous cognitive load. Reducing extraneous cognitive load means clients can complete applications faster and with higher accuracy. A simple approach like consolidating income questions into the same section can help clients avoid context-switching and encourages them to complete the income section.
+</div>
+<div class="section">
 
 ### Design for your application to accept a variety of income scenarios
 
@@ -104,6 +108,8 @@ Our research shows that clients do not separate the money their household receiv
 More and more State administrators are reporting that clients have “non-traditional” jobs, like gig work or multiple part-time jobs. To prevent burden later in the application or interview process, ensure clients can add income on a per-person, then per-job basis. This supports cases where a member of the household has more than one job.
 
 <br clear="right"/>
+</div>
+<div class="section">
 
 ### Include only what the agency needs to determine eligibility and calculate benefits
 
@@ -124,6 +130,8 @@ Less fields in a form means less work for clients. An application should focus o
 * A "content-first" design approach can also help ensure only truly necessary information is asked. More guidance on how to use this approach can be found in the Nava PBC toolkit [How to apply a content-first design approach to public services (Nava PBC)](https://www.navapbc.com/toolkits/apply-content-first-design-public-services).
 
 <br/>
+</div>
+<div class="section">
 
 ### Avoid using jargon in section titles or as field labels
 
@@ -140,6 +148,8 @@ Sometimes using jargon or specific financial terms is unavoidable. In these situ
 Providing examples for what a form or pay statement should look like when completed can be helpful for clients. [How to read a pay stub](https://files.consumerfinance.gov/f/documents/cfpb_building_block_activities_how-to-read-pay-stub_handout.pdf) from consumerfinance.gov provides an example of this type of guidance.
 
 <br/>
+</div>
+<div class="section">
 
 ### Offer contextual explanations to help meet users where they are
 
@@ -155,6 +165,8 @@ Written content should not assume the client “knows” the agency's definition
 Whenever possible, include helper text within the application so clients don't need to navigate to a different resource. Plainlanguage.gov refers to this recommendation as [minimizing cross-references](https://www.plainlanguage.gov/guidelines/design/minimize-cross-references/).
 
 <br/>
+</div>
+<div class="section">
 
 ### Use second and third person voice to directly address clients
 
@@ -163,6 +175,8 @@ Whenever possible, include helper text within the application so clients don't n
 Using second-person voice (“you” and their name when possible) is friendly, can help clients identify when they need to take an action, and can help clarify who the application is referring to in multi-person households.
 
 <br clear="right"/>
+</div>
+<div class="section">
 
 ### Provide beneficial income threshold content upfront
 
@@ -172,16 +186,65 @@ In our research, we heard examples of how itemizing self-employment expenses can
 
 Note that cost of living expenses such as rent are not covered as part of this guide.
 
+<br clear="right"/>
+</div>
+
 ## Lexicon: Common terms and definitions
 
-| Term  | Plain language definition  | Common questions clients have  | References  |
-|---|---|---|---|
-| Earned income  | Earned income is money you receive from work or a job. This includes wages, salaries, tips, and other taxable pay you earn as an employee or worker. Earned income also includes earnings from self-employment before taxes and other deductions.  | "What is earned income?" <br/> Formal definition: <br/> Earned income includes wages, salaries, tips, and other taxable employee pay. Earned income also includes earnings from self-employment before taxes and other deductions are taken out.  | [Internal Revenue Service](https://itap1.for.irs.gov/owda/0/resource/Commentary_Files_Redirect_ITA/en-US/help/eihave.html) |
-| Gross income  | Total pay before taxes and other deductions are taken out.  | "Where can I find this amount?" <br/> Other helpful context: <br/> "This number should be on your paystub. This will be the larger amount listed, before any deductions or taxes are taken out."  | [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/glossary/), Department of Labor  |
-| Net income  | Amount of money you receive in your paycheck after taxes and other deductions are taken out; also called take-home pay.  | "Where can I find this amount?"<br/> Other helpful context: <br/> <ul><li> "This is the the amount of money you receive as pay after any deductions or taxes are taken out." </li><li> "This is the smaller number." </li></ul> | [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/glossary/), Department of Labor  |
-| Unearned income  | Unearned income is typically money you receive that is not from work or a job. This includes dividends, pension, inheritance, rental income, alimony, and child support.  | "What is unearned income?" <br/> Formal definition: <br/> Unearned income includes unemployment compensation, child support garnishments, taxable social security benefits, pensions, annuities, cancellation of debt, and distributions of unearned income from a trust. <br/> Unearned income also includes investment-type income such as taxable interest, ordinary dividends, and capital gain distributions.  | [Internal Revenue Service](https://itap1.for.irs.gov/owda/0/resource/Commentary_Files_Redirect_ITA/en-US/help/unearn.html)  |
-| Self-employment  | You are self-employed if you are trading or conducting business as a sole proprietor, independent contractor, entrepreneur, freelancer, or gig worker. You are also self-employed if you are a member of a partnership, or have an online or part-time business. <br/> Note: Depending on the common types of self-employment jobs in your agency’s jurisdiction, it may be helpful to list specific examples.  | "How do I know if I am self-employed?" <br/> Other helpful context:<ul><li>Examples are very helpful for clients.</li><li>"You are self-employed if you are responsible for paying your income taxes, Medicare, and Social Security taxes yourself instead of an employer taking care of tax withholding for you."</li><li>"Self-employed workers often control the hours they work and also pay for any tools or equipment needed to get the work done."</li></ul>  | [Internal Revenue Service](https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center#:~:text=Online%20Learning%20Tools-,Who%20is%20Self%2DEmployed%3F,-Generally%2C%20you%20are)  |
-| Tribal income  | For tribal income, include any payments or money from:<ul><li>A tribe for natural resources, usage rights, leases, or royalties </li><li>Natural resources, farming, ranching, fishing, leases, or royalties from Indian trust land including reservations and former reservations</li><li>Selling things with cultural significance, including historical, traditional, religious, or ceremonial importance </li></ul>  | "What counts as income?"   | Facing the Financial Shock Customer Experience Team  |
+<table style="undefined;table-layout: fixed; width: 100% border-collapse: collapse; border-bottom: solid;">
+<colgroup>
+<col style="width: 20%">
+<col style="width: auto">
+<col style="width: auto">
+<col style="width: 20%">
+</colgroup>
+<thead>
+  <tr>
+    <th>Term</th>
+    <th>Plain language definition</th>
+    <th>Common questions clients have</th>
+    <th>References</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Earned income</td>
+    <td>Earned income is money you receive from work or a job. This includes wages, salaries, tips, and other taxable pay you earn as an employee or worker. Earned income also includes earnings from self-employment before taxes and other deductions.</td>
+    <td>"What is earned income?"<br><br>Formal definition:<br><br>Earned income includes wages, salaries, tips, and other taxable employee pay. Earned income also includes earnings from self-employment before taxes and other deductions are taken out.</td>
+    <td><a href="https://itap1.for.irs.gov/owda/0/resource/Commentary_Files_Redirect_ITA/en-US/help/eihave.html" target="_blank" rel="noopener noreferrer">Internal Revenue Service</a></td>
+  </tr>
+  <tr>
+    <td>Gross income</td>
+    <td>Total pay before taxes and other deductions are taken out.</td>
+    <td>"Where can I find this amount?" <br><br>Other helpful context: <br><br>"This number should be on your paystub. This will be the larger amount listed, before any deductions or taxes are taken out."</td>
+    <td><a href="https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/glossary/" target="_blank" rel="noopener noreferrer">Consumer Financial Protection Bureau</a><br>, Department of Labor</td>
+  </tr>
+  <tr>
+    <td>Net income</td>
+    <td>Amount of money you receive in your paycheck after taxes and other deductions are taken out; also called take-home pay.</td>
+    <td>"Where can I find this amount?"<br><br>Other helpful context: <ul><li>"This is the the amount of money you receive as pay after any deductions or taxes are taken out."</li><li>"This is the smaller number."</li></ul></td>
+    <td><a href="https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/glossary/" target="_blank" rel="noopener noreferrer">Consumer Financial Protection Bureau</a><br>, Department of Labor</td>
+  </tr>
+  <tr>
+    <td>Unearned income</td>
+    <td>Unearned income is typically money you receive that is not from work or a job. This includes dividends, pension, inheritance, rental income, alimony, and child support.</td>
+    <td>"What is unearned income?"<br><br>Formal definition:<br><br>Unearned income includes unemployment compensation, child support garnishments, taxable social security benefits, pensions, annuities, cancellation of debt, and distributions of unearned income from a trust.<br><br>Unearned income also includes investment-type income such as taxable interest, ordinary dividends, and capital gain distributions.</td>
+    <td><a href="https://itap1.for.irs.gov/owda/0/resource/Commentary_Files_Redirect_ITA/en-US/help/unearn.html" target="_blank" rel="noopener noreferrer">Internal Revenue Service</a></td>
+  </tr>
+  <tr>
+    <td>Self-employment</td>
+    <td>You are self-employed if you are trading or conducting business as a sole proprietor, independent contractor, entrepreneur, freelancer, or gig worker. You are also self-employed if you are a member of a partnership, or have an online or part-time business.<br><br>Note: Depending on the common types of self-employment jobs in your agency’s jurisdiction, it may be helpful to list specific examples.</td>
+    <td>"How do I know if I am self-employed?" <br><br>Other helpful context:<ul><li>Examples are very helpful for clients.</li><li>"You are self-employed if you are responsible for paying your income taxes, Medicare, and Social Security taxes yourself instead of an employer taking care of tax withholding for you."</li><li>"Self-employed workers often control the hours they work and also pay for any tools or equipment needed to get the work done."</li></ul></td>
+    <td><a href="https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center#:~:text=Online%20Learning%20Tools-,Who%20is%20Self%2DEmployed%3F,-Generally%2C%20you%20are" target="_blank" rel="noopener noreferrer">Internal Revenue Service</a></td>
+  </tr>
+  <tr>
+    <td>Tribal income</td>
+    <td>For tribal income, include any payments or money from:<ul><li>A tribe for natural resources, usage rights, leases, or royalties</li><li>Natural resources, farming, ranching, fishing, leases, or royalties from Indian trust land including reservations and former reservations</li><li>Selling things with cultural significance, including historical, traditional, religious, or ceremonial importance</li></ul></td>
+    <td>"What counts as income?"</td>
+    <td>Facing Financial Shock Customer Experience Team</td>
+  </tr>
+</tbody>
+</table>
 
 <br/>
 
