@@ -7,16 +7,16 @@
 // DO NOT DELETE THE ABOVE LINES
 
 
-.markdown-body h1, .markdown-body h2, .markdown-body h3{
+.markdown-body h1, h2, h3 {
   font-family: 'Merriweather', serif;
   color: #103c68;
 }
 
-.markdown-body h4, .markdown-body h5, .markdown-body h6{
+.markdown-body h4, h5, h6 {
   font-family: 'Source Sans 3', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
 }
 
-.markdown-body p, .markdown-body blockquote, .markdown-body ul, .markdown-body ol, .markdown-body dl, .markdown-body table, .markdown-body pre{
+.markdown-body p, blockquote, col, ul, li, ol, dl, table, pre {
   color: black;
   font-family: 'Source Sans 3', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
   font-size: 16.96px;
@@ -55,7 +55,7 @@
     color: white;
 }
 
-.markdown-body table th, .markdown-body table td {
+.markdown-body table th, table td {
     padding: 10px 20px;
 }
 
@@ -72,6 +72,13 @@
     padding: 0px;
 }
 
+body, div {
+  color: black;
+  font-family: 'Source Sans 3', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
+  font-size: 16.96px;
+  line-height: 25.44px;
+}
+
 img {
   max-width: 40%;
   border: 1px solid; 
@@ -81,6 +88,10 @@ img {
 a {
   text-decoration: underline;
   color: #0351AA;
+}
+
+li {
+  padding-top: 0.5em;
 }
 
 .tooltip {
@@ -96,7 +107,7 @@ a {
   color: white;
   text-align: left;
   border-radius: 6px;
-  padding: 5px 0;
+  padding: 5px;
 
   /* Position the tooltip */
   position: absolute;

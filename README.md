@@ -78,14 +78,10 @@ Implementing plain language will reduce errors by increasing client comprehensio
 **External research references:**
 
 * "Many studies have shown that plain language affects your bottom line—you can save time, personnel resources, and money. And you will give better service to your readers." - [Why use plain language from plainlanguage.gov](https://www.plainlanguage.gov/about/benefits/)
-
 * "Plain language has helped Insurance (in the Veterans Benefits Administration) by taking the focus off of ourselves and putting it where it belongs, on the customer. The focus on PL let everyone know that is OK to be clear, that we don’t have to hide our message behind big words and bureaucratic language." - [plainlanguage.gov: Quotes, Federal Employees Speak](https://www.plainlanguage.gov/resources/quotes/federal-employees-speak/)
-
 * "It is important to emphasize that agencies should communicate with the public in a way that is clear, simple, meaningful, and jargon-free. A lack of clarity may prevent people from becoming sufficiently aware of programs or services, and the prospect of confusing or complex forms may discourage people from applying for benefits and services for which they are eligible.  Similarly, a lack of clarity may make it difficult for people to understand whether particular requirements apply to them, and if so, what they are supposed to do." - [Final Guidance on Implementing the Plain Writing Act of 2010](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2011/m11-15.pdf)
-
 * "Next, we zoomed in on the top 20 terms by frequency and examined how different states and territories defined these terms. While we identified some common themes, there were variations in how the terms were defined and applied in context by the states... Too much information can overwhelm the claimant, who may feel lost in all the technicality. On the other hand, too little information does not sufficiently clarify what the term means. Striking an optimal balance with the clear and easy to understand explanation can be challenging...
 Based on what we learned from analyzing the existing definitions of the top 20 terms, we concluded that improved plain language definitions are urgently needed for the UI lexicon in order to help claimants understand and navigate the system. " - [DOL's UX Lexicon research findings](https://www.dol.gov/agencies/eta/ui-modernization/use-plain-language/ui-lexicon#:~:text=Creating%20common%2Dsense%20plain%20language%20definitions%20for%20the%20UI%20lexicon%C2%A0)
-
 * "Due to the complexity of program rules and eligibility requirements, claimants often have difficulty understanding application questions, which can cause them to inadvertently provide incorrect answers and contributes to improper payments and spikes in call center call volume." - [DOL CX principles for online applications](https://www.dol.gov/agencies/eta/ui-modernization/customer-experience/improve-applications/cx-principles#:~:text=and%20occupation%20sections-,Use%20plain%20language,-Plain%20language%20is)
 
 ## Recommended Practices
@@ -112,7 +108,7 @@ Our research shows that clients do not separate the money their household receiv
   </div>
 </div>
 
-### Design for your application to accept a variety of income scenarios
+### Design for your application to accept a variety of income situations
 
 <div class="row">
   <div class="column">
