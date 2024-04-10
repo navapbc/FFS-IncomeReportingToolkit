@@ -59,6 +59,10 @@
     padding: 10px 20px;
 }
 
+.markdown-body ul {
+  margin: 16px;
+}
+
 .row{
   display: inline-block;
   width: 100%;
@@ -90,8 +94,8 @@ a {
   color: #0351AA;
 }
 
-li {
-  padding-top: 0.5em;
+ul {
+  margin: 16px;
 }
 
 .tooltip {
