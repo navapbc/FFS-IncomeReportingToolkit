@@ -1,4 +1,8 @@
 # Development README.md
+
+## Information
+[WIP] README file will be added to this repository following the DSAC OSPO Outbound Review Checklist. It will communicate important information about your project. A README, along with a repository license, citation file, contribution guidelines, and a code of conduct, will communicate expectations for this project and helps us manage contributions.
+
 ## Installation
 ```
 brew install rbenv
