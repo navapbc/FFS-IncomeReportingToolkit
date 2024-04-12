@@ -1,65 +1,64 @@
 ---
 ---
 
-// Lint expects css-lcurlyexpected but below renders correctly.
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Source+Sans+3:wght@300;400;700&display=swap');
 // DO NOT DELETE THE ABOVE LINES
 
 
-.markdown-body h1, h2, h3 {
+h1, h2, h3 {
   font-family: 'Merriweather', serif;
   color: #103c68;
 }
 
-.markdown-body h4, h5, h6 {
+h4, h5, h6 {
   font-family: 'Source Sans 3', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
 }
 
-.markdown-body p, blockquote, col, ul, li, ol, dl, table, pre {
+p, blockquote, col, ul, li, ol, dl, table, pre {
   color: black;
   font-family: 'Source Sans 3', Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
   font-size: 16.96px;
   line-height: 25.44px;
 }
 
-.markdown-body>h1:first-child {
+h1:first-child {
   font-size: 1.5em;
   border: none;
 }
 
-.markdown-body h1 {
+h1 {
   font-size: 3em;
 }
 
-.markdown-body h2 {
+h2 {
   font-size: 2em;
 }
 
-.markdown-body h4 {
+h4 {
   margin-bottom: 5px;
   color: #0a64bd;
 }
 
-.markdown-body h4 {
+h4 {
   margin-bottom: 5px;
   color: #0a64bd;
 }
 
-.markdown-body table {
+table {
 	display: block;
 }
 
-.markdown-body table th {
+table th {
     background: #103c68;
     color: white;
 }
 
-.markdown-body table th, table td {
+table th, table td {
     padding: 10px 20px;
 }
 
-.markdown-body ul {
+ul {
   margin: 16px;
 }
 
@@ -85,7 +84,7 @@ body, div {
 
 img {
   max-width: 40%;
-  border: 1px solid; 
+  border: 1px solid;
   border-color: #5d5d5d;
 }
 
