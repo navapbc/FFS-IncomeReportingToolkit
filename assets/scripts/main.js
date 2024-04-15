@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', (event) => {
   const secret = getUrlParameter('secret');
-  // if (secret != "hithere") {
-  //   document.getElementById('primary').style.display = 'none';
-  //   document.getElementById('work-in-progress-message').style.display = 'block';
-  // }
+  if (secret != "hithere") {
+    document.getElementById('primary').style.display = 'none';
+    document.getElementById('work-in-progress-message').style.display = 'block';
+  }
 });
 
 // https://stackoverflow.com/questions/19491336/how-to-get-url-parameter-using-jquery-or-plain-javascript
