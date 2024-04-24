@@ -15,10 +15,6 @@ In this playbook, you’ll find:
 * Example language and visual templates for income
 Following this guidance can improve application form accessibility, equity, and usability.
 
-## Core Team
-
-An up-to-date list of core team members can be found in [MAINTAINERS.md](MAINTAINERS.md).
-
 # Development and Software Delivery Lifecycle
 
 The following guide is for members of the project team who have access to the repository. For more information on contribributing, see [the Contributing section](#contributing).
